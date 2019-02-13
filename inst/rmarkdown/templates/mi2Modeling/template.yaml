@@ -1,0 +1,4 @@
+name: MI2 Modeling Report
+description: >
+   R Markdown template for reports that present data exploration and modeling.
+create_dir: FALSE

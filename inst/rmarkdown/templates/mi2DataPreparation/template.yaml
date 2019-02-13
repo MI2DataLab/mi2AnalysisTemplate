@@ -1,0 +1,4 @@
+name: MI2 Data Preparation Report
+description: >
+   R Markdown template for reports that present data preparation part of an analysis.
+create_dir: FALSE
