@@ -4,10 +4,12 @@
 \alias{create_dir_structure}
 \title{Create directory structure for analysis}
 \usage{
-create_dir_structure(path)
+create_dir_structure(path, name)
 }
 \arguments{
 \item{path}{path to working directory (not ending in "/")}
+
+\item{name}{project name (no spaces or special signs)}
 }
 \description{
 Create directory structure for analysis
