@@ -3,7 +3,7 @@ Type: Package
 Title: Report Templates For MI2
 Version: 0.1.0
 Authors@R: c(person("Mateusz", "Staniak", role = c("cre","aut"),
-    email = "mateusz.staniak@math.uni.wroc.pl"))
+    email = "m.staniak@mini.pw.edu.pl"))
 Description: This package stores report templates for data analysis performed in
     MI2 Data Lab.
 License: What license is it under?
