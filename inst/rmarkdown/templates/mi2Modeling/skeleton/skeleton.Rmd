@@ -13,12 +13,14 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,
                       warning = FALSE,
-                      message = FALSE)
+                      message = FALSE,
+                      digits = 3)
 library(tidyverse)
 library(tableone)
 library(mlr)
 library(rms)
 library(DataExplorer)
+library(broom)
 ```
 
 # Data Exploration
