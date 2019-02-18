@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE,
                       warning = FALSE,
                       message = FALSE,
-                      digits = 3)
+                      cache = TRUE)
 library(tidyverse)
 library(tableone)
 library(mlr)
