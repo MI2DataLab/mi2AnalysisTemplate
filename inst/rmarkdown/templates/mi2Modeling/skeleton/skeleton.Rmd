@@ -8,10 +8,11 @@ output:
     toc: true
     toc_float: true
     code_folding: hide
+    number_sections: true
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE,
+knitr::opts_chunk$set(echo = TRUE,
                       warning = FALSE,
                       message = FALSE,
                       digits = 3)
