@@ -22,6 +22,7 @@ library(mlr)
 library(rms)
 library(DataExplorer)
 library(broom)
+library(kableExtra)
 ```
 
 # Data Exploration
